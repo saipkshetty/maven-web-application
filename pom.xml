@@ -86,10 +86,10 @@
 		<!-- provided dependencies -->
 
 		<dependency>
-			<groupId>javax.servlet</groupId>
-			<artifactId>javax.servlet-api</artifactId>
-			<version>3.40.1</version>
-			<scope>provided</scope>
+			<groupId>com.mt</groupId>
+	                <artifactId>maven-web-application</artifactId>
+	                <version>0.0.1-SNAPSHOT</version>
+	                <packaging>war</packaging>
 		</dependency>
 		
 	</dependencies>
